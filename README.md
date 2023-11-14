@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @gameside
+- 👀 I’m interested in Programing, reverse engineering games and softwares
